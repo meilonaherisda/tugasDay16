@@ -1,0 +1,12 @@
+class element():
+   titleLogin = "title"
+   userName = "user-name"
+   password = "[data-test='password']"
+   btnLogin = "login-button"
+   errMessage = "[data-test='error']"
+   cart = "shopping_cart_link"
+   btnCheckout = "[data-test='checkout']"
+   firstName= "first-name"
+   lastName = "last-name" 
+   zipcode = "postal-code"
+   btnContinue = "[data-test='continue']"
